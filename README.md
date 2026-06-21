@@ -1,4 +1,4 @@
-# Flight Booking System
+# Flight Booking System (BackEnd)
 
 A console/desktop-based Flight Booking System built using Java, JDBC, and MySQL. 
 This project simulates core flight reservation operations, allowing users to search 
